@@ -1,0 +1,36 @@
+section{
+    padding: 20px;
+}
+
+.head {
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    border: solid rgb(84, 84, 84) 0.6px;
+}
+
+.ident {
+    height: 35px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.cells {
+    border: solid #bebcbc 0.6px;
+    min-height: 30px;
+    max-height: 50px;
+    padding-left: 5px;
+}
+
+.txcenter {
+    text-align: center;
+}
+
+.inf {
+    color: rgba(176, 219, 23, 0.689);
+    font-size: 20px;
+    margin-left: 30px;
+    border-radius: 100%;
+    background: #000;
+    border: solid 4 #000;
+}

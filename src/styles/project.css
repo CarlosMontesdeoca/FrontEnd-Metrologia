@@ -1,0 +1,5 @@
+.btn-ok:active {
+    background: #fff;
+    color: #10a74a;
+    -webkit-text-stroke: 1px #174ea7;
+}

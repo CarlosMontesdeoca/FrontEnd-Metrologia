@@ -1,0 +1,40 @@
+@import '~antd/dist/antd.css';
+
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+      background: #eceef0;
+      width: 100%;
+      height: 100vh;
+      /* background-image: url('../images/logo_precitrol.jpg'); */
+      background-repeat: no-repeat;
+      background-position-x: center;
+      background-position-y: center;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .Login p {
+      text-align: center;
+    }
+  }
+
+.login-form {
+  margin: 200px;
+  width: 500px;
+  height: auto;
+  margin: 0 auto;
+  background: #fff;
+  padding: 40px;
+  text-align: center;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+

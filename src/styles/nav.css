@@ -1,0 +1,21 @@
+.menu-color {
+    background: #343A40 !important;
+    font-size: 20px;
+    margin: -5px 0px 0px 0px;    
+}
+
+.submenu-color:hover{
+    color: #06f160 !important;
+}
+
+.submenu-color {
+    font-size: 20px;
+}
+
+.logout-color {
+    color: rgb(231, 61, 61) !important;
+}
+
+.logout-color:hover {
+    color: rgb(245, 219, 219) !important;
+}
